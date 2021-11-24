@@ -1,7 +1,9 @@
 ### Hi there, I'm Jimmy 👋
-Someone who has an interest in fullstack webdev-mobdev, machine learning, and etc! 🙌
+A person who has an interest in fullstack webdev-mobdev, machine learning, and etc! 🙌
 
-- 🎯 I'm currently focused on backend development
+- 🎯 Current Activity
+  - ✨ I'm currently focused on backend development
+  - 🤓 I'm pursuing a bachelor's degree in informatics engineering
 - 📫 How to reach me: [Instagram - @jercor_15](https://instagram.com/jercor_15)
 - 😄 Pronouns: He/His
 - 📈 My Github Stats
