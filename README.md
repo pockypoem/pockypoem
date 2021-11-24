@@ -6,4 +6,4 @@ Someone who has an interest in fullstack webdev-mobdev, machine learning, and et
 - 😄 Pronouns: He/His
 - 📈 My Github Stats
   - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyascornelis&show_icons=true)
-  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyascornelis&layout=compact)
