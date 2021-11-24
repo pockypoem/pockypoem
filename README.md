@@ -3,7 +3,7 @@ A person who has an interest in fullstack webdev-mobdev, machine learning, and e
 
 - 🎯 Current Activity
   - ✨ I'm currently focused on backend development
-  - 🤓 I'm pursuing a bachelor's degree in informatics engineering
+  - 🤓 I'm pursuing a Bachelor's degree in Informatics Engineering
 - 📫 How to reach me: [Instagram - @jercor_15](https://instagram.com/jercor_15)
 - 😄 Pronouns: He/His
 - 📈 My Github Stats
