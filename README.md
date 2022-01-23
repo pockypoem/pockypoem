@@ -1,4 +1,4 @@
-### Hi there, I'm Jimmy 👋
+### Hi there, I'm Jimmy 👋😉
 A person who has an interest in fullstack webdev-mobdev, machine learning, and etc! 🙌
 
 - 🎯 Current Activity
