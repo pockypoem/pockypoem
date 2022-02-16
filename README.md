@@ -9,5 +9,5 @@ A person who has an interest in fullstack webdev-mobdev, machine learning, and e
   - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - 😄 Pronouns: He/His
 - 📈 My Github Stats
-  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyascornelis&layout=compact)
+  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyascornelis&layout=compact&langs_count=8)
   - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyascornelis&show_icons=true)
