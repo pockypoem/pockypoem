@@ -1,5 +1,5 @@
 ### Hi there, I'm Jimmy 👋😉
-A person who has an interest in fullstack webdev-mobdev, machine learning, and etc! 🙌
+A person who has an interest in fullstack webdev, machine learning, and etc! 🙌
 
 - 🎯 Current Activity
   - ✨ I'm currently focused on backend development
