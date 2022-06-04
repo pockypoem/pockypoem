@@ -4,7 +4,7 @@ A person who has an interest in fullstack webdev, machine learning, and etc! �
 - 🎯 Current Activity
   - ✨ I'm currently focused on backend development
   - 🤓 I'm pursuing a Bachelor's degree in Informatics Engineering
-  - 📝 I am currently working and studying at Intelligence System Research Lab Udinus regarding research related to information technology.
+  - 📝 I am currently working and studying at Intelligence System Research Lab Udinus as a Student Researcher regarding research related to information technology.
 - 📫 How to reach me:
   - [Instagram - @jercor_15](https://instagram.com/jercor_15)
   - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
