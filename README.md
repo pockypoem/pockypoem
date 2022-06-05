@@ -7,7 +7,7 @@ A person who has an interest in fullstack webdev, machine learning, and etc! �
   - 📝 I am currently working and studying at Intelligence System Research Lab Udinus as a Student Researcher regarding research related to information technology.
 - 📫 How to reach me:
   - [Instagram - @jercor_15](https://instagram.com/jercor_15)
-  - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+  - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com)
 - 😄 Pronouns: He/His
 - 📈 My Github Stats
   - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyascornelis&layout=compact&langs_count=8)
