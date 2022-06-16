@@ -1,5 +1,4 @@
 ### Hi there, I'm Jimmy 👋😉
-![](https://komarev.com/ghpvc/?username=jeremyascornelis&color=blue) <br />
 A person who has an interest in fullstack webdev, machine learning, and etc! 🙌
 - 🎯 Current Activity
   - ✨ I'm currently focused on backend development
