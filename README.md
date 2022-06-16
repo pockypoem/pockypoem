@@ -1,5 +1,5 @@
 ### Hi there, I'm Jimmy 👋😉
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) <br />
 A person who has an interest in fullstack webdev, machine learning, and etc! 🙌
 - 🎯 Current Activity
   - ✨ I'm currently focused on backend development
