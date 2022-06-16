@@ -11,6 +11,6 @@ A person who has an interest in fullstack webdev, machine learning, and etc! �
 - 😄 Pronouns: He/His
 #### My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,laravel,bootstrap,figma,github,vscode&theme=light)](https://skillicons.dev)
-- 📈 My Github Stats
-  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyascornelis&layout=compact&langs_count=8)
-  - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyascornelis&show_icons=true)
+📈 My Github Stats
+ - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyascornelis&layout=compact&langs_count=8)
+ - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyascornelis&show_icons=true)
