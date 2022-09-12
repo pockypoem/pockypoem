@@ -1,4 +1,4 @@
-### Hi there, I'm Jimmy 👋😉
+## Hi there, I'm Jimmy 👋😉
 A person who has an interest in fullstack dev and machine learning! 🙌
 - 🎯 Current Activity
   - ✨ I'm currently focused on backend development
@@ -8,9 +8,9 @@ A person who has an interest in fullstack dev and machine learning! 🙌
   - [Instagram - @jercor_15](https://instagram.com/jercor_15)
   - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com)
 - 😄 Pronouns: He/His
-#### Skills & Tools
+### Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,flask,figma,github,vscode&theme=light)
-#### 📈 Github Stats
+### 📈 Github Stats
  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyascornelis&layout=compact&langs_count=8)
  - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyascornelis&show_icons=true)
