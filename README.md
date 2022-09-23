@@ -1,7 +1,7 @@
 ## Hi there, I'm Jimmy 👋😉
 A person who has an interest in fullstack dev and machine learning! 🙌
 - 🎯 Current Activity
-  - ✨ I'm currently focused on backend development
+  - ✨ I'm currently focused on backend development and machine learning development
   - 🤓 I'm pursuing a Bachelor's degree in Informatics Engineering
   - 📝 I am currently working and studying at Intelligence System Research Lab Udinus as a Student Researcher regarding research related to information technology.
 - 📫 How to reach me:
