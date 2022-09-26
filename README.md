@@ -9,7 +9,7 @@ A person who has an interest in fullstack dev and machine learning! 🙌
   - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com)
 - 😄 Pronouns: He/His
 ### Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,mysql,mongodb&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,mysql&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,flask,nodejs&theme=light)
 ![My Skills](https://skillicons.dev/icons?i=discord,figma,github,vscode&theme=light)
 ### 📈 Github Stats
