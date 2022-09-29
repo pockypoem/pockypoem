@@ -11,5 +11,5 @@ A person who has an interest in fullstack dev and machine learning! 🙌
 ### Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,mysql,bootstrap,tailwind,flask,nodejs,discord,figma,github,vscode&theme=light)
 ### 📈 Github Stats
- - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyascornelis&layout=compact&langs_count=8)
- - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyascornelis&show_icons=true)
+ - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockypoem&layout=compact&langs_count=8)
+ - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pockypoem&show_icons=true)
