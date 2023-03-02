@@ -1,5 +1,5 @@
 ## Hi there, I'm Jimmy 👋😉
-A person who has an interest in fullstack dev and machine learning! 🙌
+A person who have interest in fullstack dev and machine learning! 🙌
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pockypoem&label=Profile%20views&color=0e75b6&style=flat" alt="pockypoem" /> </p>
 
 - 🎯 Current Activity
