@@ -11,7 +11,7 @@ A person who have interest in fullstack dev and machine learning! 🙌
   - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com)
 - 😄 Pronouns: He/His
 ### Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,mysql,vue,bootstrap,tailwind,laravel,figma,github,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,mysql,bootstrap,tailwind,tensorflow,figma,github,vscode&theme=light)
 ### 📈 Github Stats
  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockypoem&layout=compact&langs_count=8)
  - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pockypoem&show_icons=true)
