@@ -3,7 +3,7 @@ A person who have interest in fullstack dev and machine learning! 🙌
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pockypoem&label=Profile%20views&color=0e75b6&style=flat" alt="pockypoem" /> </p>
 
 - 🎯 Current Activity
-  - ✨ I'm currently focused on backend development and machine learning development
+  - ✨ I'm currently focused on web development and machine learning development
   - 🤓 I'm pursuing a Bachelor's degree in Informatics Engineering
   - 📝 I am currently working and studying at Intelligence System Research Lab Udinus as a **Student Researcher** regarding research related to information technology and work as **Web Designer**.
 - 📫 How to reach me:
