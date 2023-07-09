@@ -13,5 +13,5 @@ A person who have interest in fullstack web development! 🙌
 ### Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,flask,nodejs,mongodb,mysql,bootstrap,tailwind,tensorflow,figma,github,vscode&theme=light)
 ### 📈 Github Stats
- - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockypoem&hide=jupyter&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockypoem&hide=jupyter%20notebook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pockypoem&show_icons=true)
