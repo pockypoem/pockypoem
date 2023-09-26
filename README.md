@@ -5,9 +5,9 @@ A person who have interest in fullstack web development! 🙌
 - 🎯 Current Activity
   - ✨ I'm currently focused on web development with javascript's tech stack
   - 🤓 I'm pursuing a Bachelor's degree in Informatics Engineering
-  - 📝 I am currently working and studying at Intelligence System Research Lab Udinus as a **Student Researcher** regarding research related to information technology and work as **Web Designer**.
+  - 📝 Currently, I am participating in the Full Stack Web (JavaScript) apprenticeship program offered by [SYNRGY Academy](https://www.instagram.com/synrgy.academy/ in collaboration with BCA Group.
 - 📫 How to reach me:
-  - [Instagram - @jercor_15](https://instagram.com/jercor_15)
+  - [Instagram - @jercor_15](https://www.instagram.com/jeremyascornelis/)
   - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com)
 - 😄 Pronouns: He/His
 ### Tech Stacks
