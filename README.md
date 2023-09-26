@@ -5,7 +5,7 @@ A person who have interest in fullstack web development! 🙌
 - 🎯 Current Activity
   - ✨ I'm currently focused on web development with javascript's tech stack
   - 🤓 I'm pursuing a Bachelor's degree in Informatics Engineering
-  - 📝 Currently, I am participating in the Full Stack Web (JavaScript) apprenticeship program offered by [SYNRGY Academy](https://www.instagram.com/synrgy.academy/ in collaboration with BCA Group.
+  - 📝 Currently, I am participating in the Full Stack Web (JavaScript) apprenticeship program offered by [SYNRGY Academy](https://www.instagram.com/synrgy.academy/) in collaboration with BCA Group.
 - 📫 How to reach me:
   - [Instagram - @jercor_15](https://www.instagram.com/jeremyascornelis/)
   - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com)
