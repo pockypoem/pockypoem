@@ -10,7 +10,9 @@ A person who have interest in fullstack web development! 🙌
   - [Instagram - @jercor_15](https://www.instagram.com/jeremyascornelis/)
   - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com)
 - 😄 Pronouns: He/His
-https://indogithubers-badge.vercel.app/badge?username=pockypoem
+
+![IndoGitHubers-badge](https://indogithubers-badge.vercel.app/badge?username=pockypoem&style=flat-square&color=D3EB30)
+
 ### Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,jest,vitest,php,py,flask,nodejs,express,prisma,graphql,postgres,mongodb,mysql,bootstrap,tailwind,nextjs,tensorflow,figma,git,github,vite,netlify,vscode,postman,discord&theme=light)
 ### 📈 Github Stats
