@@ -11,7 +11,7 @@ A person who have interest in fullstack web development! 🙌
 - 😄 Pronouns: He/His
 
 ### Tech Stacks
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,jest,vitest,php,py,flask,nodejs,express,prisma,graphql,postgres,mongodb,mysql,bootstrap,tailwind,nextjs,tensorflow,laravel,git,github,vite,netlify,vscode,postman,discord&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,jest,vitest,php,py,flask,nodejs,express,prisma,java,postgres,mongodb,mysql,bootstrap,tailwind,nextjs,tensorflow,laravel,git,github,vite,netlify,vscode,postman,discord&theme=light)
 ### 📈 Github Stats
  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pockypoem&hide=jupyter%20notebook,html,css&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  - ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pockypoem&show_icons=true)
