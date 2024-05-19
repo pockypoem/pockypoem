@@ -3,7 +3,7 @@ A person who have interest in fullstack web development! 🙌
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pockypoem&label=Profile%20views&color=0e75b6&style=flat" alt="pockypoem" /> </p>
 
 - 🎯 Current Activity
-  - ✨ I'm currently focused on web development with c#, laravel, and java
+  - ✨ I'm currently focused on web development with Microsoft Tech Stack~
   - 📝 Currently, I am learning about fullstack web development with .NET and Microsoft SQL Server.
   - **Object Oriented Enthusiast 🥂**
 - 📫 How to reach me:
