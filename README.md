@@ -7,8 +7,8 @@ A person who have interest in fullstack web development! 🙌
   - 📝 Currently, I am learning about fullstack web development with .NET and Microsoft SQL Server.
   - **Object Oriented Enthusiast 🥂**
 - 📫 How to reach me:
-  - [Instagram - @jercor_15](https://www.instagram.com/jeremyascornelis/)
-  - [Email: Jeremyas Cornelis](mailto:jeremyasjimi9a@gmail.com)
+  - [Instagram - @jeremyascornelis](https://www.instagram.com/jeremyascornelis/)
+  - [Email: Jeremyas Cornelis](mailto:cornelisjeremyas@gmail.com)
 - 😄 Pronouns: He/His
 
 ### Tech Stacks
